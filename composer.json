@@ -1,0 +1,17 @@
+{
+    "name": "serjoagronov/json-to-html",
+    "type": "library",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Serjoagronov\\JsonToHtml\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "serjoagronov",
+            "email": "serjoagronovdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
